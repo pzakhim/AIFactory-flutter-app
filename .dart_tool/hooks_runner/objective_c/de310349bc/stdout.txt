@@ -1,0 +1,45 @@
+Running `(cd /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/; TMPDIR=/var/folders/td/h6x43mr17zd7ql42db0sdlyr0000gn/T/ PATH=/Users/gshmac/.gemini/antigravity-ide/bin:/Users/gshmac/.local/bin:/Users/gshmac/.antigravity-ide/antigravity-ide/bin:/opt/homebrew/opt/openjdk@11/bin:/Users/gshmac/.antigravity/antigravity/bin:/Users/gshmac/.antigravity/antigravity/bin:/Users/gshmac/.local/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Library/Apple/usr/bin:/opt/homebrew/bin:/Users/gshmac/.orbstack/bin HOME=/Users/gshmac /opt/homebrew/share/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/package_config.json /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/objective_c/de310349bc/hook.dill --config=/Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/objective_c/de310349bc/input.json )`.
+INFO: 2026-10-08 19:34:27.933102: Using compiler /Library/Developer/CommandLineTools/usr/bin/clang from BuildInput.cCompiler.cc.
+
+INFO: 2026-10-08 19:34:27.937594: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/include/dart_api_dl.c -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-10-08 19:34:27.938735: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/objective_c.c -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.c.o
+
+INFO: 2026-10-08 19:34:27.938892: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/input_stream_adapter.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-10-08 19:34:27.939194: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/ns_number.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/ns_number.m.o
+INFO: 2026-10-08 19:34:27.939283: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/protocol.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/protocol.m.o
+
+INFO: 2026-10-08 19:34:27.939377: Running: /Library/Developer/CommandLineTools/usr/bin/clang -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/objective_c_bindings_generated.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-10-08 19:34:28.189346: 
+INFO: 2026-10-08 19:34:28.189360: 
+INFO: 2026-10-08 19:34:28.189368: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.c.o
+INFO: 2026-10-08 19:34:28.189405: 
+INFO: 2026-10-08 19:34:28.189413: 
+INFO: 2026-10-08 19:34:28.189421: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-10-08 19:34:28.189956: 
+INFO: 2026-10-08 19:34:28.189981: 
+INFO: 2026-10-08 19:34:28.189990: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/protocol.m.o
+
+INFO: 2026-10-08 19:34:28.469901: 
+INFO: 2026-10-08 19:34:28.469944: 
+INFO: 2026-10-08 19:34:28.469955: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/ns_number.m.o
+
+INFO: 2026-10-08 19:34:28.481507: 
+INFO: 2026-10-08 19:34:28.481528: 
+INFO: 2026-10-08 19:34:28.481539: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.m.o
+
+ter.m.o
+
+INFO: 2026-10-08 19:34:28.515323: 
+INFO: 2026-10-08 19:34:28.515359: 
+INFO: 2026-10-08 19:34:28.515381: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-10-08 19:34:28.515660: Running: /Library/Developer/CommandLineTools/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX.sdk -target arm64-apple-darwin -mmacos-version-min=13 /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/include/dart_api_dl.c.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.c.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/input_stream_adapter.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/observer.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/ns_number.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/protocol.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/obj/src/objective_c_bindings_generated.m.o -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/objective_c.dylib
+
+INFO: 2026-10-08 19:34:28.678755: 
+INFO: 2026-10-08 19:34:28.678817: 
+INFO: 2026-10-08 19:34:28.678827: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/de310349bc/objective_c.dylib
+
