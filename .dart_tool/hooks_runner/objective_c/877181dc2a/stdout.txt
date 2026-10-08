@@ -1,0 +1,51 @@
+Running `(cd /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/; TMPDIR=/var/folders/td/h6x43mr17zd7ql42db0sdlyr0000gn/T/ PATH=/Users/gshmac/Downloads/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/usr/bin:/Users/gshmac/Downloads/Xcode.app/Contents/Developer/usr/local/bin:/Users/gshmac/.gemini/antigravity-ide/bin:/Users/gshmac/.local/bin:/Users/gshmac/.antigravity-ide/antigravity-ide/bin:/opt/homebrew/opt/openjdk@11/bin:/Users/gshmac/.antigravity/antigravity/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/Library/Frameworks/Python.framework/Versions/3.13/bin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/pkg/env/global/bin:/Library/Apple/usr/bin:/Users/gshmac/.orbstack/bin HOME=/Users/gshmac /opt/homebrew/share/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/package_config.json /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/objective_c/877181dc2a/hook.dill --config=/Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/objective_c/877181dc2a/input.json )`.
+INFO: 2026-10-08 19:59:03.345899: Using compiler /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang from BuildInput.cCompiler.cc.
+
+INFO: 2026-10-08 19:59:03.349667: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/include/dart_api_dl.c -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-10-08 19:59:03.350518: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/objective_c.c -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/objective_c.c.o
+
+INFO: 2026-10-08 19:59:03.350658: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/input_stream_adapter.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-10-08 19:59:03.350886: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/observer.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/observer.m.o
+
+.m.o
+
+INFO: 2026-10-08 19:59:03.351075: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/protocol.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/protocol.m.o
+
+
+
+INFO: 2026-10-08 19:59:03.351178: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 -x objective-c -fobjc-arc -c /Users/gshmac/.pub-cache/hosted/pub.dev/objective_c-9.5.0/src/objective_c_bindings_generated.m -fpic -gline-tables-only -I src -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-10-08 19:59:03.392198: 
+INFO: 2026-10-08 19:59:03.392210: 
+INFO: 2026-10-08 19:59:03.392222: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-10-08 19:59:03.406039: 
+INFO: 2026-10-08 19:59:03.406077: 
+INFO: 2026-10-08 19:59:03.406088: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/protocol.m.o
+INFO: 2026-10-08 19:59:03.406136: 
+INFO: 2026-10-08 19:59:03.406147: 
+INFO: 2026-10-08 19:59:03.406157: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/observer.m.o
+
+INFO: 2026-10-08 19:59:03.486246: 
+INFO: 2026-10-08 19:59:03.486282: 
+INFO: 2026-10-08 19:59:03.486292: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/ns_number.m.o
+
+INFO: 2026-10-08 19:59:03.490648: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/input_stream_adapter.m.o
+
+shared/objective_c/build/877181dc2a/obj/src/objective_c.m.o
+INFO: 2026-10-08 19:59:03.490630: 
+INFO: 2026-10-08 19:59:03.490640: 
+
+INFO: 2026-10-08 19:59:03.519042: 
+INFO: 2026-10-08 19:59:03.519077: 
+INFO: 2026-10-08 19:59:03.519094: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-10-08 19:59:03.519369: Running: /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Users/gshmac/Downloads/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator27.0.sdk -target x86_64-apple-ios-simulator -mios-version-min=15 /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/include/dart_api_dl.c.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/objective_c.c.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/input_stream_adapter.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/objective_c.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/observer.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/ns_number.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/protocol.m.o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/obj/src/objective_c_bindings_generated.m.o -o /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/objective_c.dylib
+
+INFO: 2026-10-08 19:59:03.544484: 
+INFO: 2026-10-08 19:59:03.544553: ld: warning: -undefined dynamic_lookup is deprecated on iOS-simulator
+
+INFO: 2026-10-08 19:59:03.544564: Generated /Users/gshmac/Space/CodeSpace/AIFactory-flutter-app/.dart_tool/hooks_runner/shared/objective_c/build/877181dc2a/objective_c.dylib
+
